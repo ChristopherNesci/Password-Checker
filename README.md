@@ -93,8 +93,8 @@ https://weakpass.com/
         Enter Password: My3picP@ssw0dRu7z 
         
         'My3picP@ssw0dRu7z' not found in any list and meets all criteria  
-       ```
+```
         
 ## Security Note
 
-This tool is for education purposes only. Dont actuall put real passwords youre currently using into any password checking tool unless you trust it.
+This tool is for education purposes only. Dont actually put real passwords youre currently using into any password checking tool unless you trust it.
