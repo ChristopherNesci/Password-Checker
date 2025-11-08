@@ -3,8 +3,18 @@ import os
 
 def check_password():
     while True:
+        art = """
+    ____                                          __   _    __      ___     __      __              
+   / __ \____ ____________      ______  _________/ /  | |  / /___ _/ (_)___/ /___ _/ /_____  _____        
+  / /_/ / __ `/ ___/ ___/ | /| / / __ \/ ___/ __  /   | | / / __ `/ / / __  / __ `/ __/ __ \/ ___/ 
+ / ____/ /_/ (__  |__  )| |/ |/ / /_/ / /  / /_/ /    | |/ / /_/ / / / /_/ / /_/ / /_/ /_/ / /    
+/_/    \__,_/____/____/ |__/|__/\____/_/   \__,_/     |___/\__,_/_/_/\__,_/\__,_/\__/\____/_/     
+                                                                                       
+        """
+        print(art)
         print(
-            "Password Validator\n"
+            "Validate your password!\n"
+            "\n"
             " Password should meet the following criteria:\n"
             " - Minimum length of 8 characters.\n"
             " - Contains at least one uppercase letter.\n"
